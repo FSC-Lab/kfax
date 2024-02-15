@@ -1,7 +1,8 @@
 # KFAx: Jax powered EKF
 
-> This is a fork of kfax <https://github.com/Hs293Go/kfax> frozen at the state it is presented in a AER1517 lecture.
-> Update this fork as it is used in lectures
+> This is a fork of kfax frozen at the state it is presented in a AER1517 lecture.
+> This fork is not actively developed and only updated as it is used in lectures
+> Go to the upstream <https://github.com/Hs293Go/kfax> for active development
 
 ## Introduction
 
