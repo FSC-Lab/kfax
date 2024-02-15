@@ -1,5 +1,8 @@
 # KFAx: Jax powered EKF
 
+> This is a fork of kfax <https://github.com/Hs293Go/kfax> frozen at the state it is presented in a AER1517 lecture.
+> Update this fork as it is used in lectures
+
 ## Introduction
 
 KFAX is a small state estimation library for JAX. 
