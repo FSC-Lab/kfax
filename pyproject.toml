@@ -1,0 +1,11 @@
+[project]
+authors = [{ name = "H S Helson Go", email = "hei.go@mail.utoronto.ca" }]
+name = "kfax"
+version = "0.0.1"
+description = "(WIP) Jax-based autodiff driven Extended Kalman Filter"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+dependencies = ["jax", "scipy"]
+optional-dependencies = { "example" = ["matplotlib", "tqdm"] }
+[tool.pytest.ini_options]
+filterwarnings = "ignore::DeprecationWarning"
